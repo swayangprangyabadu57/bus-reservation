@@ -374,7 +374,6 @@ int main()
 		
 		switch(w)		
 		{
-
 			case 1: 
 			bus[p].install();
 			
